@@ -1,0 +1,6 @@
+best_first()
+
+
+astar(G,initial,goal):
+    create nlist and weight arrays
+    meh!

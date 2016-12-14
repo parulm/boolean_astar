@@ -1,0 +1,6 @@
+A* = not B or C
+B1* = A and C
+B2* = not A and not C
+B* = B1 or B2
+C* = A or B
+D* = B and C
